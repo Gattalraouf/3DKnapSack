@@ -10,3 +10,13 @@ faced by someone who is constrained by a fixed-size knapsack and must fill it wi
 
 # The 3dimensional Knapsack Problem
 It have the same aspect but the only difference is that instead of one limit condition (weight) there are two which are the weight and volume.
+
+# Built With
+  - [**Clion**](https://www.jetbrains.com/clion/)
+
+# Authors
+- **Abderraouf GATTAL** 
+
+# License
+This project is licensed under the MIT License
+
